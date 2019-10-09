@@ -1,4 +1,5 @@
 # <p align="center"> Ingredient-Guided Cascaded Multi-Attention Network for Food Recognition</p>
+<div align=center><img width="1000" height="550" src="sample/attribute_strong_weak.png"/></div> 
 
 
 ## Data collection
