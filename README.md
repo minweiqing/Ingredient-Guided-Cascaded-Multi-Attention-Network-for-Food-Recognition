@@ -5,6 +5,14 @@
 ## Data collection
 ISIA-Food200 consists of `197,323` food items.Each item includes the food name,food images,main ingredients.There are totally `200` kinds of food dishes.
 
+|         | number           |
+| ------------- |:-------------:|
+| ingerdient          |    398        |
+| train image         |    118,210    |
+| validation image    |    19,826     |
+| test image          |    59,287     |
+| food class          |    200        |
+
 
 ## The dataset can also be downloaded from the following links:
 [[image.rar]](https://www.google.com/?hl=zh_tw)
