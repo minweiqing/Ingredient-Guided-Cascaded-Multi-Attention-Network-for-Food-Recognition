@@ -1,5 +1,5 @@
 # <p align="center"> Ingredient-Guided Cascaded Multi-Attention Network for Food Recognition</p>
-<div align=center><img width="1000" height="550" src="example/example.jpg"/></div> 
+<div align=center><img width="1000" height="400" src="example/example.jpg"/></div> 
 
 
 ## Data collection
