@@ -6,7 +6,7 @@
 ISIA-Food200 consists of `197,323` food items.Each item includes the food name,food images,main ingredients.There are totally `200` kinds of food dishes.
 
 ## Data ingredients
-<img width="1000" height="400" src="Sample/ingredients.jpg"/>
+<img width="1000" height="400" src="Sample/example.jpg"/>
 
 
 ## The dataset can also be downloaded from the following links:
