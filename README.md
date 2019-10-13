@@ -1,17 +1,12 @@
 # <p align="center"> Ingredient-Guided Cascaded Multi-Attention Network for Food Recognition</p>
-<div align=center><img width="1000" height="400" src="example/example.jpg"/></div> 
+<div align=center><img width="1000" height="400" src="Sample/example.jpg"/></div> 
 
 
 ## Data collection
 ISIA-Food200 consists of `197,323` food items.Each item includes the food name,food images,main ingredients.There are totally `200` kinds of food dishes.
 
-|         | number           |
-| ------------- |:-------------:|
-| ingerdient          |    398        |
-| train image         |    118,210    |
-| validation image    |    19,826     |
-| test image          |    59,287     |
-| food class          |    200        |
+## Data ingredients
+<img width="1000" height="400" src="Sample/ingredients.jpg"/>
 
 
 ## The dataset can also be downloaded from the following links:
