@@ -47,10 +47,12 @@ If you are interested in our work and want to cite it, please acknowledge the fo
 
 
 ```
-@inproceedings{Min2019,
-author = {Weiqing Min, Linhu Liu, Zhengdong Luo, Shuqiang Jiang},
-title = {Ingredient-Guided Cascaded Multi-Attention Network for Food Recognition},
-booktitle = {ACMMMM},
-year = {2019}
-}
+@InProceedings{Min-IG-CMAN-MM2019,
+ author = {Min, Weiqing and Liu, Linhu and Luo, Zhengdong and Jiang, Shuqiang},
+ title = {Ingredient-Guided Cascaded Multi-Attention Network for Food Recognition},
+ booktitle = {Proceedings of the 27th ACM International Conference on Multimedia},
+ year = {2019},
+ pages = {1331--1339},
+ numpages = {9},
+} 
 ```
