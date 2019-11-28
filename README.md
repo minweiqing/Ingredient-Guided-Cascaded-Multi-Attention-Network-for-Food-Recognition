@@ -13,6 +13,7 @@ ISIA-Food200 consists of `197,323` food items.Each item includes the food name,f
 ## The dataset can also be downloaded from the following link:
 https://pan.baidu.com/s/1YWqvl1bDW0l1xpjHoxEkCg
 
+## Code Implementation
 This is a PyTorch implementation of the ACMMM2019 paper "Ingredient-Guided Cascaded Multi-Attention Network for Food Recognition" (Weiqing Min, Linhu Liu, Zhengdong Luo, Shuqiang Jiang).
 
 ## Requirements
