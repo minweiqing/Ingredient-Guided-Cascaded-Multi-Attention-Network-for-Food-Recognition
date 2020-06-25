@@ -21,7 +21,7 @@ This is a PyTorch implementation of the ACMMM2019 paper "Ingredient-Guided Casca
 - pytorch 0.4+
 
 ## Datasets
-1.Download the ETH Food-101 or ISIA Food-200(http://123.57.42.89/FoodComputing__Dataset_files/FoodComputing__ISIA200.html) datasets, you may obtain images which contain ingredient and category list. You can also try other food datasets. 
+1.Download the ETH Food-101 or [ISIA Food-200](http://123.57.42.89/FoodComputing__Dataset_files/FoodComputing__ISIA200.html) datasets, you may obtain images which contain ingredient and category list. You can also try other food datasets. 
 2.The category list is : 
     name_of_image.jpg label_num\n
 
