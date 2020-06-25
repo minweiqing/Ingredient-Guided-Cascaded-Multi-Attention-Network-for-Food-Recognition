@@ -11,7 +11,7 @@ ISIA Food-200 consists of `197,323` food items.Each item includes the food name,
 [[readme.txt]](https://www.google.com/?hl=zh_tw)
 
 ## The dataset can also be downloaded from the following link:
-https://pan.baidu.com/s/1YWqvl1bDW0l1xpjHoxEkCg
+http://123.57.42.89/FoodComputing__Dataset_files/FoodComputing__ISIA200.html
 
 ## Code Implementation
 This is a PyTorch implementation of the ACMMM2019 paper "Ingredient-Guided Cascaded Multi-Attention Network for Food Recognition" (Weiqing Min, Linhu Liu, Zhengdong Luo, Shuqiang Jiang).
@@ -21,7 +21,7 @@ This is a PyTorch implementation of the ACMMM2019 paper "Ingredient-Guided Casca
 - pytorch 0.4+
 
 ## Datasets
-1.Download the ETH Food-101 or WikiFood-200(http://) datasets, you may obtain images which contain ingredient and category list. You can also try other food datasets. 
+1.Download the ETH Food-101 or ISIA Food-200(http://123.57.42.89/FoodComputing__Dataset_files/FoodComputing__ISIA200.html) datasets, you may obtain images which contain ingredient and category list. You can also try other food datasets. 
 2.The category list is : 
     name_of_image.jpg label_num\n
 
